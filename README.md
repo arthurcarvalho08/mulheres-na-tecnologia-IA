@@ -1,1 +1,2 @@
-# mulheres-na-tecnologia-IA
+# mulheres_tecnologia
+Site para ser finalizado pelos estudantes. 
